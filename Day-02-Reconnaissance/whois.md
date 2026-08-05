@@ -54,5 +54,7 @@ WHOIS should only be used responsibly and ethically.
 Information obtained should never be used for malicious purposes.
 
 
-<img width="175" height="229" alt="Screenshot 2026-08-05 092602" src="https://github.com/user-attachments/assets/df522738-50f8-4988-be79-7201ae48b2e8" />
+<img width="175" height="229" alt="openai" src="https://github.com/user-attachments/assets/87457a07-b2db-4552-a0d4-41ae34ecf79c" />
+
+
 Figure 1: Example WHOIS Lookup for openai.com
