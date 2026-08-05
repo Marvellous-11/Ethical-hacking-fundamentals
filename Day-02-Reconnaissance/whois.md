@@ -52,3 +52,7 @@ A WHOIS lookup may contain:
 WHOIS should only be used responsibly and ethically.
 
 Information obtained should never be used for malicious purposes.
+
+
+<img width="175" height="229" alt="Screenshot 2026-08-05 092602" src="https://github.com/user-attachments/assets/df522738-50f8-4988-be79-7201ae48b2e8" />
+Figure 1: Example WHOIS Lookup for openai.com
